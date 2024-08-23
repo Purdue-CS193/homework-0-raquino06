@@ -2,7 +2,7 @@
 
 # Robert's First CS193 Homework
 
-#Favorite things about CS193
+Favorite things about CS193
 
 - No tests
 - We learn about important tools
